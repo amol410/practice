@@ -16,6 +16,7 @@ else:
 
 
 
+# Create a program that checks if a number is positive, negative, or zero.
 
 # next step (advance)
 while True:

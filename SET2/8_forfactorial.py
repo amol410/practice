@@ -1,7 +1,5 @@
 # Implement a program to find the factorial of a number using a for loop.
 
-
-
 def factorial(n):
     result = 1
     
