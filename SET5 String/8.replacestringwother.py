@@ -19,6 +19,7 @@ for word in words:
     if word.lower() == old_word.lower():
         # If there is a match, append the replacement word to the modified_words list
         modified_words.append(new_word)
+        print(modified_words)
     else:
         # If there is no match, append the original word to the modified_words list
         modified_words.append(word)

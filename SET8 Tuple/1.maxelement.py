@@ -4,7 +4,7 @@
 my_tuple = (10, 5, 8, 20, 3, 15)
 
 # Find the maximum element in the tuple
-max_element = my_tuple[0]  # Assume the first element is the maximum
+max_element = int('-inf')  # Assume the first element is the maximum
 
 for element in my_tuple:
     if element > max_element:

@@ -7,6 +7,7 @@ capitalized_sentence = ""
 
 # Split the sentence into words
 words = sentence.split()
+print(words)
 
 # Iterate over each word in the sentence
 for word in words:

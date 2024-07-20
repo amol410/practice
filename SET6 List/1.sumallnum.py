@@ -16,7 +16,6 @@ print("List:", numbers)
 print("Sum:", total)
 
 
-
 #or 
 
 # Define the input list
@@ -28,3 +27,4 @@ total = sum(numbers)
 # Print the original list and the sum
 print("List:", numbers)
 print("Sum:", total)
+

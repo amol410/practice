@@ -13,6 +13,7 @@ print("Original dictionary:", my_dict)
 
 # Remove a key from the dictionary
 key_to_remove = 'banana'
+
 if key_to_remove in my_dict:
     del my_dict[key_to_remove]
     print(f"Key '{key_to_remove}' has been removed.")

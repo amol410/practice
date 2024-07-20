@@ -13,6 +13,7 @@ consonant_count = 0
 
 # Iterate over each character in the string
 for char in input_string:
+    # print(char)
     # Check if the character is alphabetic
     if char.isalpha():
         # Check if the character is a vowel

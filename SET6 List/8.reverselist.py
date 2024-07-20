@@ -14,3 +14,18 @@ print("Original List:", my_list)
 
 reverse_list(my_list)
 print("Reversed List:", my_list)
+
+#or
+
+
+my_list = [1, 2, 3, 4, 5]
+    # Get the length of the list
+length = len(my_list)
+    
+    # Swap elements from both ends until the middle
+list = my_list[::-1]
+
+print(list)
+
+# Example usage
+

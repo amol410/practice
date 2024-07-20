@@ -13,7 +13,9 @@ def is_anagram(str1, str2):
     list1 = list(str1)
     list2 = list(str2)
     list1.sort()
+    print(list1)
     list2.sort()
+    print(list2)
     
     # Compare the sorted lists
     if list1 == list2:

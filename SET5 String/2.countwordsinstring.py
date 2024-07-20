@@ -6,16 +6,16 @@ def count_word_occurrences(string, word):
     word = word.lower()
     
     # Split the string into words
-    words = string.split()
+    stringss = string.split()
     
     # Count the occurrences of the word
-    count = words.count(word)
+    count = stringss.count(word)
     
     return count
 
 # Example usage
-string = "The quick brown fox jumps over the lazy dog. The dog is sleeping."
-word = "the"
+string = "The quick brown fox jumps over the lazy dog . The dog is sleeping."
+word = "dog"
 
 occurrences = count_word_occurrences(string, word)
 print(f"The word '{word}' appears {occurrences} times in the string.")

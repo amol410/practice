@@ -1,7 +1,7 @@
 # Write a program to remove duplicate elements from a list using a set.
 
 def remove_duplicates(lst):
-    return list(set(lst))
+    return list(set(lst)) 
 
 # Example usage
 my_list = [1, 2, 3, 2, 4, 3, 5, 1, 6]

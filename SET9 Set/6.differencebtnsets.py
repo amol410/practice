@@ -1,7 +1,5 @@
 # Implement a program to find the difference between two sets.
 
-
-
 def set_difference(set1, set2):
     return set1 - set2
 

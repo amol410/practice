@@ -11,6 +11,9 @@ print(is_palindrome("hello"))  # Output: False
 print(is_palindrome(""))  # Output: True
 print(is_palindrome("madam"))  # Output: True
 
+
+
+#or
 # Get the input string from the user
 string = input("Enter a string: ")
 

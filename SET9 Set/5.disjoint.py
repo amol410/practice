@@ -5,7 +5,7 @@ def are_disjoint(set1, set2):
 
 # Example usage
 set1 = {1, 2, 3, 4}
-set2 = {5, 6, 7}
+set2 = {6, 7, 8}
 set3 = {3, 4, 8, 9}
 
 print("Set 1:", set1)

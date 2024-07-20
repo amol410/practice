@@ -22,3 +22,24 @@ def find_second_largest(lst):
 numbers = [10, 5, 8, 20, 15, 20]
 result = find_second_largest(numbers)
 print("The second largest element is:", result)
+
+
+def find_second_largest(numbers):
+    if len(numbers) < 2:
+        return None
+    
+    largest = float('-inf')
+    second_largest = float('-inf')
+
+    for element in numbers:
+        if element > largest:
+            second_largest = largest
+            largest = element
+        elif element > second_largest and element <largest:
+            second_largest = element
+    return second_largest        
+
+
+numbers = [10, 5, 8, 20, 15, 20]
+result = find_second_largest(numbers)
+print(f"result is here {result}")

@@ -36,5 +36,7 @@ for i in range(num_people):
 
     people.append(person)
 
+    print(person)
+
 for person in people:
     print(person)
