@@ -1,0 +1,1 @@
+# Write a list comprehension to calculate the sum of all prime numbers up to 50.

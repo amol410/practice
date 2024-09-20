@@ -1,0 +1,1 @@
+# Create a base class "Shape" with a method to calculate perimeter. Define derived classes "Rectangle" and "Circle" that calculate perimeter differently.

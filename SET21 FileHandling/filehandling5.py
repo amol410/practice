@@ -1,0 +1,1 @@
+# Create a program that counts the number of words in a text file.

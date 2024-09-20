@@ -1,0 +1,1 @@
+# Implement a class "BankAccount" with a private attribute for account balance. Provide methods to deposit and withdraw money while encapsulating the balance.

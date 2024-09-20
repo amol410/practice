@@ -1,0 +1,1 @@
+# Create a class "Rectangle" with private attributes for length and width. Implement methods to calculate and return the area while encapsulating these attributes.

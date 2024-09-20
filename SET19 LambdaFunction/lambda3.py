@@ -1,0 +1,1 @@
+# Implement a lambda function to filter out even numbers from a list.

@@ -1,0 +1,1 @@
+# Create a generator that produces a Fibonacci sequence up to a specified number of terms.

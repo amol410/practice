@@ -1,0 +1,1 @@
+# Create a program that defines a decorator to check if a user is logged in before accessing a function.

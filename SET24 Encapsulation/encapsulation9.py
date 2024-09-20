@@ -1,0 +1,1 @@
+# Implement a class "Bank" that manages multiple bank accounts with private account balances. Provide methods to encapsulate account balances and perform transactions.

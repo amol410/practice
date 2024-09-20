@@ -1,0 +1,1 @@
+# Create a Python decorator that encrypts the result of a function before returning it.

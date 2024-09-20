@@ -1,0 +1,1 @@
+# Implement a program that uses a lambda function to find the smallest element in a list.

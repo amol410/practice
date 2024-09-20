@@ -1,0 +1,1 @@
+# Write a Python function to generate a Fibonacci sequence up to a specified number of terms.

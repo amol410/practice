@@ -1,0 +1,1 @@
+# Write a Python program to create a new directory and move a file into it.

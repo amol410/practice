@@ -1,0 +1,1 @@
+# Implement a program that uses a finally block to ensure a resource is properly closed.

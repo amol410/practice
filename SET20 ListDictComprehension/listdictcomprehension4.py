@@ -1,0 +1,1 @@
+# Create a program that uses list comprehension to extract the vowels from a string.

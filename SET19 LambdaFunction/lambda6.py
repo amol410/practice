@@ -1,0 +1,1 @@
+# Implement a lambda function to extract the last word from a list of sentences.

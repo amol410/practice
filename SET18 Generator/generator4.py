@@ -1,0 +1,1 @@
+# Write a generator that yields a sequence of squares of numbers.

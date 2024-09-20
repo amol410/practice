@@ -1,0 +1,1 @@
+# Create a program that uses list comprehension to flatten a list of lists into a single list.

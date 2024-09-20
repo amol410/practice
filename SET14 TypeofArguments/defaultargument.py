@@ -1,0 +1,1 @@
+# Create a program that defines a function with default arguments to calculate the area of a rectangle.

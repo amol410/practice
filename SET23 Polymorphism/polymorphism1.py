@@ -1,0 +1,1 @@
+# Create a base class "Shape" with a method to calculate area. Define derived classes "Rectangle" and "Circle" that implement the area calculation differently.

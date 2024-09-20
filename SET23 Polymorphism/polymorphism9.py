@@ -1,0 +1,1 @@
+# Define a base class "Employee" with a method to calculate the annual salary. Create derived classes "Manager" and "Worker" that calculate the annual salary differently.

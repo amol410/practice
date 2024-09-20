@@ -1,0 +1,1 @@
+# Implement a function that accepts a dictionary and extracts specific key-value pairs.

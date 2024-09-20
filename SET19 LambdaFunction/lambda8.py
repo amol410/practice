@@ -1,0 +1,1 @@
+# Create a lambda function to capitalize the first letter of each word in a sentence.

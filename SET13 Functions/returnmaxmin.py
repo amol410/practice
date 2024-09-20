@@ -1,0 +1,1 @@
+# Write a function that takes a list of numbers and returns the maximum and minimum values.

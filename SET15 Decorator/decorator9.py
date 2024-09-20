@@ -1,0 +1,1 @@
+# Implement a decorator that logs exceptions raised during the execution of a function.

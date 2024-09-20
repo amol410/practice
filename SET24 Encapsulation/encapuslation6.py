@@ -1,0 +1,1 @@
+# Implement a class "Circle" with a private attribute for radius. Provide methods to calculate and return the area while encapsulating the radius.

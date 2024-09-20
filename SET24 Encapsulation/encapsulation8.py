@@ -1,0 +1,1 @@
+# Define a class "Dog" with private attributes for name and breed. Implement methods to encapsulate these attributes and display the dog's details.

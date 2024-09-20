@@ -1,0 +1,1 @@
+# Implement a decorator that validates user input for a function.

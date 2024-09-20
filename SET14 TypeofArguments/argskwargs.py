@@ -1,0 +1,1 @@
+# Write a Python function that demonstrates the use of *args and **kwargs in function definitions.

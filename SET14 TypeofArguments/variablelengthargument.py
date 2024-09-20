@@ -1,0 +1,1 @@
+# Write a function that accepts a variable-length argument list and calculates their sum.

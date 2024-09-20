@@ -1,0 +1,1 @@
+# Implement a program that uses a generator to generate prime numbers.

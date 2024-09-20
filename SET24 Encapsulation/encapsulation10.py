@@ -1,0 +1,1 @@
+# Create a class "Student" with private attributes for name, age, and roll number. Implement a method to display the student's details while encapsulating the attributes.

@@ -1,0 +1,1 @@
+# Write a Python program to catch multiple exceptions in a try-except block.

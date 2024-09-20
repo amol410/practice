@@ -1,0 +1,1 @@
+# Implement a Python function that accepts keyword arguments to display user information (name, age, etc.).

@@ -1,0 +1,1 @@
+# Write a lambda function to filter out words from a list of strings based on their length.

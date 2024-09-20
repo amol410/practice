@@ -1,0 +1,1 @@
+# Implement a base class "Fruit" with a method to describe taste. Create derived classes "Apple" and "Banana" that provide their own taste descriptions.

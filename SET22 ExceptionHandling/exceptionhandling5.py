@@ -1,0 +1,1 @@
+# Create a program that raises a custom exception and handles it using try-except.

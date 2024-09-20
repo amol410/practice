@@ -1,0 +1,1 @@
+# Create a program that uses list comprehension to generate a list of words with more than 5 characters from a sentence.

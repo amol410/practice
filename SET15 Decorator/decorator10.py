@@ -1,0 +1,1 @@
+# Create a program that defines a decorator to print the output of a function in a specific format.

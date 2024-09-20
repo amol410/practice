@@ -1,0 +1,1 @@
+# Define a class "Person" with private attributes for name and age. Implement methods to change the name and age while encapsulating these attributes.

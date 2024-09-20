@@ -1,0 +1,1 @@
+# Write a Python function that accepts a list and unpacks it into individual arguments.

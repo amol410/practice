@@ -1,0 +1,1 @@
+# Define a base class "BankAccount" with methods for deposit and withdraw. Create derived classes "SavingsAccount" and "CheckingAccount" that implement the methods differently.

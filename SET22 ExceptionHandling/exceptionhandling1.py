@@ -1,0 +1,1 @@
+# Write a Python program that handles a ZeroDivisionError exception.

@@ -1,0 +1,1 @@
+# Implement a generator that generates a sequence of strings with random characters.

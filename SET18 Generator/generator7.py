@@ -1,0 +1,1 @@
+# Write a Python generator that yields elements of a list in reverse order.

@@ -1,0 +1,1 @@
+# Implement a program that handles a NameError exception.

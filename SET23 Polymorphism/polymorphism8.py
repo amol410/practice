@@ -1,0 +1,1 @@
+# Implement a base class "Animal" with a method to describe habitat. Create derived classes "Bird" and "Mammal" that provide their own habitat descriptions.
