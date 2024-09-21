@@ -2,6 +2,7 @@ class solution:
     def LengthOfLastWord(self,s):
         
         s = s.rstrip()
+        
 
         last_space = s.rfind(' ')
 
