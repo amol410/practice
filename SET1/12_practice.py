@@ -1,55 +1,13 @@
-# without using function
-
 list = [1,2,3,4,5,6,7] 
 
-Total = 0
-
-for i in list:
-    Total += i
-
-print (Total)    
+for i in list: 
+for i in range(len(list)):
+for i, num in enumerate(list):
+for i in range(1, len(list)+1):        
 
 
-# with using function
-def sum_of_list(numbers):
-    total = 0
-    for num in numbers:
-        total += num
-    return total
+# above each completely different
 
-# Example usage
-my_list = [1, 2, 3, 4, 5]
-result = sum_of_list(my_list)
-print("Sum of the elements:", result)
-
-# with using function
-def sum_of_list(list):
-    Total = 0
-    for i in list:
-        Total += i
-
-    return Total
-
-list = [1,2,3,4,5,6,7,8] 
-
-result = sum_of_list(list)
-
-print("sum of the total elements in list:" , result)
-
-
-
-
-def sum_of_list(list):
-    Total = 0
-    for i in list:
-        Total += i
-    return Total
-
-list = [1,2,3,4,5,6,7,8]
-result = sum_of_list(list)
-
-print(result)
-
-
- 
-
+# It will print each index not number in the list
+for i in range(len(list)):
+    print(list[i])

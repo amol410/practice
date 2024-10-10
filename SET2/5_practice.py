@@ -1,4 +1,6 @@
 #6 Write a program to find the intersection of two sets.
+# set me .add use kiya jaata hai 
+
 
 def set_intersection(set1,set2):
     intersection = set()
@@ -8,9 +10,6 @@ def set_intersection(set1,set2):
             intersection.add(element)
 
     return intersection
-
-
-
 
 set1 = {1,2,3,4,5}
 set2 = {4,5,6,7,8}

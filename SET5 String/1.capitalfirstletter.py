@@ -22,3 +22,21 @@ capitalized_sentence = capitalized_sentence.strip()
 # Print the original and capitalized sentences
 print("Original sentence:", sentence)
 print("Capitalized sentence:", capitalized_sentence)
+
+
+
+sentence = "hello world, how are you?"
+
+capitalized_sentence = ""
+
+words = sentence.split()
+
+
+for word in words:
+    capitalword = word[0].upper() + word[1:]
+
+    capitalized_sentence += capitalword + " "
+
+
+print(sentence)
+print(capitalized_sentence)    

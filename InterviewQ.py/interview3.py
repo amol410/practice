@@ -33,3 +33,21 @@ result2 = solution.searchInsert(nums2, target2)
 nums3 = [1,3,5,6]
 target3 = 7
 result3 = solution.searchInsert(nums3, target3)
+
+
+
+
+def decorator(func):
+    def wrapper(a,b):
+        c = 30
+        result = func(a,b)
+        return result + c
+    return wrapper
+    
+
+@decorator
+def add(a, b):
+    return a + b
+
+result = add(5, 9)
+print(result)

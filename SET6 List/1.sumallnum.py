@@ -28,3 +28,12 @@ total = sum(numbers)
 print("List:", numbers)
 print("Sum:", total)
 
+
+numb = [10, 20, 30, 40, 50]
+
+total = 0
+
+for i in numb:
+    total += i  
+
+print(total)    

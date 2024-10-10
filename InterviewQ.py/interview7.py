@@ -1,3 +1,6 @@
+# nums1 = [1, 2, 3, 0, 0, 0]
+# n, m = 3, 3
+# nums2 = [2, 5, 6]
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
         # Initialize pointers for nums1, nums2, and the merged array
@@ -14,7 +17,7 @@ class Solution(object):
                 nums1[p] = nums2[p2]
                 p2 -= 1
             p -= 1
-
+        return nums1
 # Test the function
 solution = Solution()
 # Example 1
@@ -22,19 +25,22 @@ nums1 = [1, 2, 3, 0, 0, 0]
 m = 3
 nums2 = [2, 5, 6]
 n = 3
-solution.merge(nums1, m, nums2, n)
-
-# Example 2
-nums1 = [1]
-m = 1
-nums2 = []
-n = 0
-solution.merge(nums1, m, nums2, n)
+result = solution.merge(nums1, m, nums2, n)
+print(result)
 
 
-# Example 3
-nums1 = [0]
-m = 0
-nums2 = [1]
-n = 1
-solution.merge(nums1, m, nums2, n)
+# # Example 2
+# nums1 = [1]
+# m = 1
+# nums2 = []
+# n = 0
+# solution.merge(nums1, m, nums2, n)
+
+
+# # Example 3
+# nums1 = [0]
+# m = 0
+# nums2 = [1]
+# n = 1
+# result = solution.merge(nums1, m, nums2, n)
+

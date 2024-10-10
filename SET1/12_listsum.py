@@ -4,7 +4,8 @@ list = [1,2,3,4,5,6,7]
 
 total = 0
 
-for i in list:
+for i in list: 
+# for i in len(list) completely different & for i, num in enumerate(list) is different
     
     total += i
 

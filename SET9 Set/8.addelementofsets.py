@@ -1,4 +1,5 @@
 # Create a function to add an element to a set.
+# set me add, remove & clear() use kiya jata h
 
 def add_element(set1, element):
     set1.add(element)

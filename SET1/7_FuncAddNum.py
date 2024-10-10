@@ -6,6 +6,14 @@ def add_numbers(a,b):
     
 add_numbers(10,50) 
 
+# practice - we can return multiple values 
+def add_numbers(a,b):
+    return a+b, a-b   # kya baat hai return k samne hi calculation
+
+addition = add_numbers(10, 20)
+
+print(addition)
+
 
 # Return addition result
 def add_numbers(a,b):
@@ -26,10 +34,3 @@ tryi = add_numbers(10,50) # returned a-b value captured here
 print(tryi)
 
 
-# practice - we can return multiple values 
-def add_numbers(a,b):
-    return a+b, a-b
-
-addition = add_numbers(10, 20)
-
-print(addition)

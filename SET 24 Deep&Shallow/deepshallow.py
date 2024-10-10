@@ -1,6 +1,5 @@
-# Use shallow copy when you only need to create a new container object but are 
-# fine with sharing references to nested objects. Use deep 
-# copy when you need a completely independent copy of an object and all its nested objects.
+# if we modify the nested list/object of shallow copy it changes original list/object.
+# if we modify the nested list/object of deep copy it won't change original list/object. 
 
 import copy
 

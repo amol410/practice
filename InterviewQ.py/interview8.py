@@ -1,3 +1,5 @@
+# remove duplicates from sorted array 
+
 class Solution(object):
     def removeDuplicates(self, nums):
         if not nums:
@@ -9,7 +11,7 @@ class Solution(object):
         # Iterate through the array starting from the second element
         for i in range(1, len(nums)):
             # If the current element is different from the previous unique element
-            if nums[i] != nums[k-1]:
+            if nums[i] != nums[k-1]:                            
                 # Move the current element to the next position of unique elements
                 nums[k] = nums[i]
                 # Increment the count of unique elements
